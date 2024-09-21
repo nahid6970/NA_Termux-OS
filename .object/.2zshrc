@@ -50,3 +50,6 @@ echo -e "\033[33m │"
 PUT 10 0
 echo -e "\033[33m │"
 PUT 13 0
+
+alias hellomusic='echo "playwwe" && mpv /storage/emulated/0/song/wwe/ww.mp3'
+sshd
